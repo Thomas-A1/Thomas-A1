@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thomas
-- 👀 I’m interested in mobile app and website development.
-- 🌱 I’m currently good at Javascript, Java, HTML, PYTHON, CSS and Angular
-- 💞️ I’m looking to collaborate on building apps, websites, database systems and animations
+- 👀 I’m interested in Software development, Robotics, and System's Engineering.
+- 🌱 I’m currently good at Javascript, Java, C, C++, React.js, Dart, PHP, and Python.
+- 💞️ I’m looking to collaborate on building AI applications, Softwares that will impact lives financially and solve climate change issues.
 - 📫 How to reach me: LinkedIN - www.linkedin.com/in/tkquarshie
 
 <!---
